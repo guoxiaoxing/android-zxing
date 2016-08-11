@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/guoxiaoxing/Github/zxing-plus/android/build/intermediates/res/merged/debug/menu/encode.xml",
+        "source": "/Users/guoxiaoxing/Github/zxing-plus/android/src/main/res/menu/encode.xml"
+    },
+    {
+        "merged": "/Users/guoxiaoxing/Github/zxing-plus/android/build/intermediates/res/merged/debug/menu/capture.xml",
+        "source": "/Users/guoxiaoxing/Github/zxing-plus/android/src/main/res/menu/capture.xml"
+    },
+    {
+        "merged": "/Users/guoxiaoxing/Github/zxing-plus/android/build/intermediates/res/merged/debug/menu/history.xml",
+        "source": "/Users/guoxiaoxing/Github/zxing-plus/android/src/main/res/menu/history.xml"
+    }
+]

@@ -1,0 +1,2 @@
+include ':zxing', ':core', ':android-core'
+include ':android'

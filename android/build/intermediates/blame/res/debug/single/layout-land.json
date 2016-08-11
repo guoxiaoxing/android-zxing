@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/guoxiaoxing/Github/zxing-plus/android/build/intermediates/res/merged/debug/layout-land/encode.xml",
+        "source": "/Users/guoxiaoxing/Github/zxing-plus/android/src/main/res/layout-land/encode.xml"
+    },
+    {
+        "merged": "/Users/guoxiaoxing/Github/zxing-plus/android/build/intermediates/res/merged/debug/layout-land/share.xml",
+        "source": "/Users/guoxiaoxing/Github/zxing-plus/android/src/main/res/layout-land/share.xml"
+    }
+]
